@@ -6,10 +6,10 @@
 - Any javaScript Fun program
 - Accepting Any intresting Projects
 ## How to contribute
-1. first 'fork' this repo
-2. then 'clone' it to your system
+1. first `fork` this repo
+2. then `clone` it to your system
 3. make your changes
-4. 'push' to origin in your forked repo
-5. make a 'Pull Request'
+4. `push` to origin in your forked repo
+5. make a `Pull` Request
 > Valid Contribution Will be Merged 
-## Must Read 'CONTRIBUTING.md'
+## Must Read `CONTRIBUTING.md`
