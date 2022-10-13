@@ -1,10 +1,10 @@
 // set images
 var images = [
-	"/images/kool2.jpg",
-	"/images/kool1.jpg",
-	"/images/kool3.webp",
-	"/images/kool4.jpg",
-	"/images/kool6.jpg",
+	"images/kool2.jpg",
+	"images/kool1.jpg",
+	"images/kool3.webp",
+	"images/kool4.jpg",
+	"images/kool6.jpg",
   ]
   // instanciate slider
   var rbgShiftSlider = new rbgShiftSlider({
