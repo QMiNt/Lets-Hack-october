@@ -1,4 +1,4 @@
-# Lets Hack october
+# Lets Hack octoberCancel changes
  A Contributing Repo For Hacktober For Beginners
 ## What you can Contribute
 - DSA programs (eg CURD for linked list,array,stacks,etc)
@@ -12,4 +12,4 @@
 4. 'push' to origin in your forked repo
 5. make a 'Pull Request'
 > Valid Contribution Will be Merged 
-
+## Must Read 'CONTRIBUTING.md'
