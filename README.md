@@ -1,4 +1,4 @@
-# Lets Hack octoberCancel changes
+# Lets Hack October
  A Contributing Repo For Hacktober For Beginners
 ## What you can Contribute
 - DSA programs (eg CURD for linked list,array,stacks,etc)
