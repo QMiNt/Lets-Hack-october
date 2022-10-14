@@ -16,5 +16,5 @@
 ## Code you are proud of
 - make an issue for it (if intresting it will be accepted)
 ## for any problems contact
-- QMiNt @Aditya Agarwal
+- @QMiNt Aditya Agarwal
 - Email : agarwaladitya27257@outlook.com
