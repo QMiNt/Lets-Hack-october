@@ -2,7 +2,6 @@
 - NO SPAMMING
 - MAKE VALID REQUEST
 >code with error will not be accepted
-- No Hate comments
 - Do not copy others work
 ## For DSA CODES
 - make your changes in Language specified folders
