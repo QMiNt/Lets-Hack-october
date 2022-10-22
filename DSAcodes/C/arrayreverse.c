@@ -1,6 +1,6 @@
 #include<stdio.h>
  
-{
+void rvereseArray(int arr[], int start, end){
     int temp;
     while (start < end)
     {
